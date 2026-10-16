@@ -1,0 +1,4 @@
+go out
+exit
+come out
+depart
